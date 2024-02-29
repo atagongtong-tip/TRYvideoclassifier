@@ -6,3 +6,7 @@ pip install tensorflow
 
 pip install ffmpeg
 
+go to:      https://github.com/BtbN/FFmpeg-Builds/releases
+download:   ffmpeg-master-latest-win64-gpl.zip
+
+
