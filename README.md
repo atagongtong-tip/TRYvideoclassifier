@@ -2,7 +2,7 @@ pip install streamlit
 
 pip install opencv-python
 
-pip install tensorflow
+pip install tensorflow (use python 3.8.10)
 
 pip install ffmpeg
 
